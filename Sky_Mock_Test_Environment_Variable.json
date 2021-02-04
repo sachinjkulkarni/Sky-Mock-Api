@@ -1,0 +1,14 @@
+{
+	"id": "a2e6f5c6-d05f-4171-b46b-678417518b2a",
+	"name": "New Environment",
+	"values": [
+		{
+			"key": "url",
+			"value": "https://5f99522350d84900163b8737.mockapi.io/tech-test/articles",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2021-02-04T23:09:44.065Z",
+	"_postman_exported_using": "Postman/8.0.3"
+}
