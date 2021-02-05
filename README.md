@@ -9,7 +9,7 @@ The automation framework approach is as follows
 
 - Postman is used as an automation framework to test the given API's
 
-- There are 10 tests for 1st API and 5 for second API
+- There are 10 tests for 1st API,5 for second API and 3 more tests to check for POST,PUT and DELETE requests
 
 - The tests are mainly to check the response type,content type,valid json schema,No error in response and to check the contents of the json
 
